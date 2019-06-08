@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="horizontal">
+
+    <CheckBox
+        android:id="@+id/cbDoneYet"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/checkbox_layout_work"
+        android:button="@null"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/edtWorkName"
+        android:layout_width="335dp"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite"
+        android:paddingLeft="5dp"
+        android:text="11111" />
+
+    <ImageView
+        android:id="@+id/imgConfirmWorkName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/icon_checkmark_24" />
+
+    <TextView
+        android:id="@+id/tvWorkID"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="1" />
+</LinearLayout>

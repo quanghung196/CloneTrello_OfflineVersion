@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">CloneTrello_OfflineVersion</string>
+
+    <!--dialog Thêm công việc-->
+    <string name="themCV">Thêm công việc</string>
+    <string name="CV">Công việc</string>
+    <string name="nhapCV">Nhập công việc</string>
+    <string name="phongNen">Phông nền  </string>
+    <string name="xacNhan">Xác nhận</string>
+    <string name="huy">Hủy</string>
+
+    <!--main Activity-->
+    <string name="trangChu">Trang chủ</string>
+    <string name="dsCV">Danh sách các công việc</string>
+    <string name="hintCV">Nhập công việc cần tìm</string>
+
+    <!--item Board-->
+    <string name="themThe">Thêm thẻ</string>
+    <string name="them">Thêm</string>
+
+    <!--dialog Đổi tên thẻ-->
+    <string name="doiTen">Đổi tên</string>
+    <string name="the">Thẻ</string>
+    <string name="hintNhapTenTheMoi">Nhập tên thẻ mới</string>
+
+    <!--dialog Thêm bảng-->
+    <string name="themBang">Thêm bảng</string>
+    <string name="bang">Bảng</string>
+    <string name="nhapBang">Nhập bảng</string>
+
+    <!--item ListWorks-->
+    <string name="dsCongViec">Danh sách công việc</string>
+    <string name="hintThemMuc">Thêm mục...</string>
+
+    <!--Popup window-->
+    <string name="popXoaBang">Xóa bảng</string>
+    <string name="popDiChuyenDS">Di chuyển danh sách</string>
+    <string name="popDiChuyenAllTheDS">Di chuyển tất cả thẻ trong danh sách</string>
+
+    <!--card activity-->
+    <string name="trongDanhSach">Trong danh sách: </string>
+    <string name="hintMoTaThe">Mô tả thẻ... </string>
+    <string name="menuXoaThe">Xóa thẻ</string>
+    <string name="menuDoiTen">Đổi tên</string>
+    <string name="hintDanhSachCV">Danh sách công việc...</string>
+    <string name="hintHetHan">Ngày hết hạn...</string>
+    <string name="color_dialog_title">Chọn màu</string>
+
+    <string name="content">Chào anh em, GE smurf đây
+
+Tôi cũng đéo biết là các ông có định đọc bài này không, hay là ngay lập tức trượt xuống phần cmt rồi type địt mẹ wibu hay bronze medal hay cái gì tương tự, hay là việc 2 thằng "bạn" học cùng lớp cấp 2 của tôi có định vào hùa theo cắn tôi không, nhưng mà thôi kệ.
+
+Trước hết, việc tôi lên rank GE thật hay tôi bắn ntn thì chỉ có những người đã từng chơi với tôi mới biết, tôi cũng đéo hề có cách để chứng minh
+
+Thứ hai, cái clip của tôi là clip từ hồi Tết, và tôi đăng lên không phải để khoe là ồ mình bắn hay quá hay là hạ thấp team địch, mà ý của tôi là tôi bắn round đó như con cặc, nhưng vẫn ăn ace. Tại sao tôi lại nói đó là bot dễ? Vì tôi bắn như một thằng Silver và vẫn giết cả 5 mạng team địch.
+
+Thứ ba, tôi đăng cái clip đó cho vui, và sau khi đi đái và lấy cốc nước thì tôi thấy cả đống cmt chửi tôi, thế là tôi kiểu ơ mình ăn lồn rồi. Tất nhiên, đấy là lỗi của tôi, nhưng tôi cũng đéo hiểu tại sao các ông đào wall tôi lên làm gì? Ừ đúng rồi tôi chấp nhận việc mình bị nói là wibu, nhưng trong bài tôi k hề đề cập gì đến việc tôi là GE hay cái gì đó tương tự. Smurf? Ừ, lỗi của tôi luôn vì đã viết cap kiểu này. Nhưng chốt lại thì cái cmt của tôi trong bài của ông khỉ béo đúng vãi lồn.
+
+Thứ tư, cái việc mấy người bênh tôi hay con bạn tôi nó vào cmt mà các ông cũng chửi là clone thì tôi cũng đéo thể nào tranh luận được nữa : (
+
+Một lần nữa, tôi không mong là các ông phải tin hay chấp nhận những gì tôi nói, mà tôi đăng cái này lên để ít ra sẽ k có người nói rằng ờ thằng này nhục vcl bị chửi xong lặn đi :))))) Không. Và những người duy nhất mà tôi sẽ xin lỗi là những người đã bênh tôi sáng nay, dù tôi đéo xứng đáng được như vậy.
+
+Bới wall tôi tiếp đi, tôi đéo quan tâm nữa đâu
+
+Chúc mấy ông buổi chiều vui vẻ
+    Chào anh em, GE smurf đây
+
+Tôi cũng đéo biết là các ông có định đọc bài này không, hay là ngay lập tức trượt xuống phần cmt rồi type địt mẹ wibu hay bronze medal hay cái gì tương tự, hay là việc 2 thằng "bạn" học cùng lớp cấp 2 của tôi có định vào hùa theo cắn tôi không, nhưng mà thôi kệ.
+
+Trước hết, việc tôi lên rank GE thật hay tôi bắn ntn thì chỉ có những người đã từng chơi với tôi mới biết, tôi cũng đéo hề có cách để chứng minh
+
+Thứ hai, cái clip của tôi là clip từ hồi Tết, và tôi đăng lên không phải để khoe là ồ mình bắn hay quá hay là hạ thấp team địch, mà ý của tôi là tôi bắn round đó như con cặc, nhưng vẫn ăn ace. Tại sao tôi lại nói đó là bot dễ? Vì tôi bắn như một thằng Silver và vẫn giết cả 5 mạng team địch.
+
+Thứ ba, tôi đăng cái clip đó cho vui, và sau khi đi đái và lấy cốc nước thì tôi thấy cả đống cmt chửi tôi, thế là tôi kiểu ơ mình ăn lồn rồi. Tất nhiên, đấy là lỗi của tôi, nhưng tôi cũng đéo hiểu tại sao các ông đào wall tôi lên làm gì? Ừ đúng rồi tôi chấp nhận việc mình bị nói là wibu, nhưng trong bài tôi k hề đề cập gì đến việc tôi là GE hay cái gì đó tương tự. Smurf? Ừ, lỗi của tôi luôn vì đã viết cap kiểu này. Nhưng chốt lại thì cái cmt của tôi trong bài của ông khỉ béo đúng vãi lồn.
+
+Thứ tư, cái việc mấy người bênh tôi hay con bạn tôi nó vào cmt mà các ông cũng chửi là clone thì tôi cũng đéo thể nào tranh luận được nữa : (
+
+Một lần nữa, tôi không mong là các ông phải tin hay chấp nhận những gì tôi nói, mà tôi đăng cái này lên để ít ra sẽ k có người nói rằng ờ thằng này nhục vcl bị chửi xong lặn đi :))))) Không. Và những người duy nhất mà tôi sẽ xin lỗi là những người đã bênh tôi sáng nay, dù tôi đéo xứng đáng được như vậy.
+
+Bới wall tôi tiếp đi, tôi đéo quan tâm nữa đâu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemDeleteBoard"
+        android:title="Xóa bảng"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/icon_trash_24"/>
+
+    <item
+        android:id="@+id/itemMoveBoard"
+        android:title="Di chuyển bảng"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/icon_forward_arrow_24"/>
+
+</menu>

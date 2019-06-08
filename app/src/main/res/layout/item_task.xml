@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10dp"
+    android:layout_marginBottom="-5dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:id="@+id/linearTask"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            app:cardCornerRadius="5dp">
+
+            <ImageView
+                android:id="@+id/imgMau"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorBlue" />
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:id="@+id/tvTenCV"
+            android:layout_width="320dp"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="CNTT2 - K57"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvSTTCV"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="1"
+            android:textSize="20dp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>
